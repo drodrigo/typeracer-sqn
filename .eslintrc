@@ -1,0 +1,14 @@
+{
+  "extends": "standard",
+  "globals": {
+    "db": true,
+    "gateway": true,
+    "responseHelper": true
+  },
+  "rules": {
+    "eqeqeq": "warn"
+  },
+  "env": {
+    "mocha": true
+  }
+}
